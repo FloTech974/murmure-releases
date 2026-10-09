@@ -7,5 +7,5 @@ Ce dépôt ne contient que les **installeurs** publiés (onglet *Releases*). Mur
 ses mises à jour : *Options → Mises à jour → Rechercher une mise à jour*.
 
 Chaque version contient :
-- `Murmure-Setup-X.Y.Z.exe` : l'installeur (Windows 10/11, sans droits administrateur) ;
+- `Murmure-Setup-X.Y.Z.exe` : l'installeur (Windows 10/11, sans droits administrateur)
 - `Murmure-Setup-X.Y.Z.exe.sha256` : son empreinte. Murmure refuse d'installer un fichier qui ne lui correspond pas.
